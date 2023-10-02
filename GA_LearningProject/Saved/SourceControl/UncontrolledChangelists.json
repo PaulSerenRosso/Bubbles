@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Maps/map_RayMarching.umap",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Materials/M_RayMarching.uasset",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Materials/M_Bubble.uasset",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Textures/T_Bubble.uasset",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Materials/M_RayMarching_Inst.uasset",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Materials/M_RayMarching1.uasset",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Materials/M_RayMarching2.uasset",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Materials/NewNiagaraSystem.uasset",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Materials/M_TestRoughness.uasset",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Materials/Test.uasset",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Materials/MI_RayMarching.uasset",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap",
+				"C:/Data_Paul/GA-Learning/GA_LearningProject/Content/Materials/MI_RayMarching1.uasset"
+			]
+		}
+	]
+}
